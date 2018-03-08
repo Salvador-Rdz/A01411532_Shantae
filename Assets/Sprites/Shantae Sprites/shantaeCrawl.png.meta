@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 9de5b814cbffda64c9468848a7ea0711
+timeCreated: 1520050022
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shantaeCrawl_0
+    21300002: shantaeCrawl_1
+    21300004: shantaeCrawl_2
+    21300006: shantaeCrawl_3
+    21300008: shantaeCrawl_4
+    21300010: shantaeCrawl_5
+    21300012: shantaeCrawl_6
+    21300014: shantaeCrawl_7
+    21300016: shantaeCrawl_8
+    21300018: shantaeCrawl_9
+    21300020: shantaeCrawl_10
+    21300022: shantaeCrawl_11
+    21300024: shantaeCrawl_12
+    21300026: shantaeCrawl_13
+    21300028: shantaeCrawl_14
+    21300030: shantaeCrawl_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shantaeCrawl_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 199
+        height: 130
+      alignment: 9
+      pivot: {x: 0.28470126, y: 0.1533647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 208
+        height: 130
+      alignment: 9
+      pivot: {x: 0.27828246, y: 0.12945326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 206
+        height: 130
+      alignment: 9
+      pivot: {x: 0.25009435, y: 0.13121232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 205
+        height: 130
+      alignment: 9
+      pivot: {x: 0.224947, y: 0.13998955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 205
+        height: 130
+      alignment: 9
+      pivot: {x: 0.21715593, y: 0.1520935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_5
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 199
+        height: 130
+      alignment: 9
+      pivot: {x: 0.20592648, y: 0.14119351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_6
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 0
+        width: 202
+        height: 130
+      alignment: 9
+      pivot: {x: 0.17263582, y: 0.15529877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_7
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 200
+        height: 130
+      alignment: 9
+      pivot: {x: 0.14787965, y: 0.19759637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_8
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 0
+        width: 198
+        height: 130
+      alignment: 9
+      pivot: {x: 0.13469288, y: 0.22938383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_9
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 0
+        width: 202
+        height: 130
+      alignment: 9
+      pivot: {x: 0.12773268, y: 0.19264497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_10
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 0
+        width: 204
+        height: 130
+      alignment: 9
+      pivot: {x: 0.13001804, y: 0.17752776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_11
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 0
+        width: 204
+        height: 130
+      alignment: 9
+      pivot: {x: 0.15205294, y: 0.15552866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_12
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 0
+        width: 198
+        height: 130
+      alignment: 9
+      pivot: {x: 0.160393, y: 0.19259138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_13
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 0
+        width: 198
+        height: 130
+      alignment: 9
+      pivot: {x: 0.2131101, y: 0.20462812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_14
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 0
+        width: 197
+        height: 130
+      alignment: 9
+      pivot: {x: 0.23348519, y: 0.1982593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeCrawl_15
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 0
+        width: 195
+        height: 130
+      alignment: 9
+      pivot: {x: 0.2558506, y: 0.19036277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

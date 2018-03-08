@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 5b76f48640ccfca4d95e0856a59a0ced
+timeCreated: 1519930285
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shantaeRun_0
+    21300002: shantaeRun_1
+    21300004: shantaeRun_2
+    21300006: shantaeRun_3
+    21300008: shantaeRun_4
+    21300010: shantaeRun_5
+    21300012: shantaeRun_6
+    21300014: shantaeRun_7
+    21300016: shantaeRun_8
+    21300018: shantaeRun_9
+    21300020: shantaeRun_10
+    21300022: shantaeRun_11
+    21300024: shantaeRun_12
+    21300026: shantaeRun_13
+    21300028: shantaeRun_14
+    21300030: shantaeRun_15
+    21300032: shantaeRun_16
+    21300034: shantaeRun_17
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shantaeRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 237
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5032387, y: 0.017811349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 8
+        width: 233
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50328, y: 0.019430555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 8
+        width: 236
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.016192138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_3
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 7
+        width: 236
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.022668894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_4
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 9
+        width: 234
+        height: 236
+      alignment: 9
+      pivot: {x: 0.50161934, y: 0.014634661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_5
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 8
+        width: 236
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.016192138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_6
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 8
+        width: 235
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_7
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 8
+        width: 235
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_8
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 8
+        width: 235
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_9
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 8
+        width: 235
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_10
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 0
+        width: 235
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.017811302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_11
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 2
+        width: 237
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.017811265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_12
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2
+        width: 236
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50162625, y: 0.02104968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_13
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 5
+        width: 236
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50322515, y: 0.024288142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_14
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 8
+        width: 235
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_15
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 8
+        width: 236
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_16
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 8
+        width: 237
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeRun_17
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 8
+        width: 236
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

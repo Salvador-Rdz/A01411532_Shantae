@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 8749a18422be39d4e9fadf2701bda720
+timeCreated: 1519865555
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shantaeIdleBase_0
+    21300002: shantaeIdleBase_1
+    21300004: shantaeIdleBase_2
+    21300006: shantaeIdleBase_3
+    21300008: shantaeIdleBase_4
+    21300010: shantaeIdleBase_5
+    21300012: shantaeIdleBase_6
+    21300014: shantaeIdleBase_7
+    21300016: shantaeIdleBase_8
+    21300018: shantaeIdleBase_9
+    21300020: shantaeIdleBase_10
+    21300022: shantaeIdleBase_11
+    21300024: shantaeIdleBase_12
+    21300026: shantaeIdleBase_13
+    21300028: shantaeIdleBase_14
+    21300030: shantaeIdleBase_15
+    21300032: shantaeIdleBase_16
+    21300034: shantaeIdleBase_17
+    21300036: shantaeIdleBase_18
+    21300038: shantaeIdleBase_19
+    21300040: shantaeIdleBase_20
+    21300042: shantaeIdleBase_21
+    21300044: shantaeIdleBase_22
+    21300046: shantaeIdleBase_23
+    21300048: shantaeIdleBase_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shantaeIdleBase_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44391373, y: 0.024994256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44756514, y: 0.029993111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45392102, y: 0.0316594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44756514, y: 0.033325683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44915438, y: 0.03499197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_5
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 238
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45253208, y: 0.03499197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_6
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45392078, y: 0.033325683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_7
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45550975, y: 0.0316594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_8
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45392078, y: 0.028326828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_9
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45074335, y: 0.028326828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_10
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45074335, y: 0.033325683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_11
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4475654, y: 0.029993111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44438744, y: 0.03499197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_13
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44438744, y: 0.0316594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_14
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4523318, y: 0.03499197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_15
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4507423, y: 0.0316594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_16
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4523318, y: 0.033325683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_17
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4523318, y: 0.03499197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_18
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45551077, y: 0.03499197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_19
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45709923, y: 0.033325683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_20
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.45074335, y: 0.036658254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_21
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.46027616, y: 0.03499197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_22
+      rect:
+        serializedVersion: 2
+        x: 5279
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4586877, y: 0.039990827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_23
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44915488, y: 0.033325683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleBase_24
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 0
+        width: 237
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44756436, y: 0.033325683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

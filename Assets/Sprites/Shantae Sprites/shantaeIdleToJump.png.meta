@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: b3bed62c32c880f418b77e48501c5545
+timeCreated: 1519930394
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shantaeIdleToJump_0
+    21300002: shantaeIdleToJump_1
+    21300004: shantaeIdleToJump_2
+    21300006: shantaeIdleToJump_3
+    21300008: shantaeIdleToJump_4
+    21300010: shantaeIdleToJump_5
+    21300012: shantaeIdleToJump_6
+    21300014: shantaeIdleToJump_7
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shantaeIdleToJump_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 134
+        height: 252
+      alignment: 9
+      pivot: {x: 0.6320545, y: 0.036347765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleToJump_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 133
+        height: 252
+      alignment: 9
+      pivot: {x: 0.63593966, y: 0.033318788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleToJump_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.6292806, y: 0.024231847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleToJump_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2
+        width: 127
+        height: 252
+      alignment: 9
+      pivot: {x: 0.6264702, y: 0.018173888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleToJump_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2
+        width: 127
+        height: 252
+      alignment: 9
+      pivot: {x: 0.6073523, y: 0.013630419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleToJump_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2
+        width: 130
+        height: 252
+      alignment: 9
+      pivot: {x: 0.62428117, y: 0.01514491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleToJump_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2
+        width: 129
+        height: 252
+      alignment: 9
+      pivot: {x: 0.6335288, y: 0.021202868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeIdleToJump_7
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2
+        width: 133
+        height: 252
+      alignment: 9
+      pivot: {x: 0.62816006, y: 0.043320414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

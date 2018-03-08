@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 2e42ed4c6e9be8441b8b922cf3300d94
+timeCreated: 1519944678
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shantaeDuckIdle_0
+    21300002: shantaeDuckIdle_1
+    21300004: shantaeDuckIdle_2
+    21300006: shantaeDuckIdle_3
+    21300008: shantaeDuckIdle_4
+    21300010: shantaeDuckIdle_5
+    21300012: shantaeDuckIdle_6
+    21300014: shantaeDuckIdle_7
+    21300016: shantaeDuckIdle_8
+    21300018: shantaeDuckIdle_9
+    21300020: shantaeDuckIdle_10
+    21300022: shantaeDuckIdle_11
+    21300024: shantaeDuckIdle_12
+    21300026: shantaeDuckIdle_13
+    21300028: shantaeDuckIdle_14
+    21300030: shantaeDuckIdle_15
+    21300032: shantaeDuckIdle_16
+    21300034: shantaeDuckIdle_17
+    21300036: shantaeDuckIdle_18
+    21300038: shantaeDuckIdle_19
+    21300040: shantaeDuckIdle_20
+    21300042: shantaeDuckIdle_21
+    21300044: shantaeDuckIdle_22
+    21300046: shantaeDuckIdle_23
+    21300048: shantaeDuckIdle_24
+    21300050: shantaeDuckIdle_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shantaeDuckIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14662269, y: 0.1557505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14662345, y: 0.15094663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14849041, y: 0.1521476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14475383, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14569025, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 0
+        width: 183
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14288397, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 0
+        width: 183
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14475405, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 0
+        width: 182
+        height: 143
+      alignment: 9
+      pivot: {x: 0.1417545, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14835523, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14492466, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.1477283, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14664094, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_12
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14352284, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_13
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14352417, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_14
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14663962, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_15
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14975639, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_16
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.1480421, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_17
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14663962, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_18
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14632648, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_19
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 0
+        width: 183
+        height: 143
+      alignment: 9
+      pivot: {x: 0.141799, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_20
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 0
+        width: 183
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14621755, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_21
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 0
+        width: 183
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14663912, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_22
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 0
+        width: 182
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14144059, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_23
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 0
+        width: 183
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14709006, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_24
+      rect:
+        serializedVersion: 2
+        x: 4441
+        y: 0
+        width: 182
+        height: 143
+      alignment: 9
+      pivot: {x: 0.13986038, y: 0.14999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shantaeDuckIdle_25
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 0
+        width: 184
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14878248, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
